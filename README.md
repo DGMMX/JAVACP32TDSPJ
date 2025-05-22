@@ -29,7 +29,7 @@ JUnit para testes
 
 Clone o repositório:
 
-git clone https://github.com/hDepth/JAVACP32TDSPJ.git
+git clone https://github.com/DGMMX/JAVACP32TDSPJ.git
 cd checkpoint
 
 
